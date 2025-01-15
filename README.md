@@ -38,7 +38,7 @@ This project is a simple car game developed with Python and Pygame. The player c
 • Objective: Avoid the green obstacles and score as many points as possible.</br>
 
 ## 📸 Screenshots:
-https://github.com/Oanekrif/Py-Game/blob/master/image.png
+![overview](https://github.com/Oanekrif/Py-Game/blob/master/src/image.png)
 </br>
 
 ## 🎯 Future Enhancements:
